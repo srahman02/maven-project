@@ -8,6 +8,6 @@ public class GotoController {
 
     @GetMapping("/")
     public String sayHello(){
-        return "Run build ge has been made";
+        return "Hello Numair how are you?";
     }
 }
