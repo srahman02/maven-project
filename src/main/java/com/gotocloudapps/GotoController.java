@@ -8,6 +8,6 @@ public class GotoController {
 
     @GetMapping("/")
     public String sayHello(){
-        return "Hello Sojibur from local";
+        return "Another change made to the controller";
     }
 }
