@@ -8,6 +8,6 @@ public class GotoController {
 
     @GetMapping("/")
     public String sayHello(){
-        return "Another change made to the controller";
+        return "Run build when a change has been made";
     }
 }
